@@ -42,7 +42,7 @@ My name is Sonali Chauhan and I am a Web Developer that uses HTML, CSS and Boots
 ### 📫 How to reach me
 
  <p>
-  <a href="[[https://www.linkedin.com/in/aman-chauhan-2b51471b6](https://www.linkedin.com/in/sonali-chauhan-8372192a3/)](https://www.linkedin.com/in/sonali-chauhan-8372192a3/)">
+  <a href="[https://www.linkedin.com/in/sonali-chauhan-8372192a3/]">
   <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
  </p>
